@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## I am Suneet, a sophomore in IIT Kanpur. 
+## I am Suneet, a Senior in IIT Kanpur. 
 
 ## I'm immersed in the fascinating realms of machine learning and data analysis, where I eagerly explore intricate concepts to tackle real-world challenges. With a genuine passion for understanding the nuances of ML methodologies, I dive into projects ranging from predicting material properties to forecasting cryptocurrency trends. 
 
